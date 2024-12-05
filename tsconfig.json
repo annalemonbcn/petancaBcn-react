@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*", ".eslintrc.cjs"],
+  "overrides": [
+    {
+      "files": ["src/main.tsx"]
+    }
+  ]
+}
